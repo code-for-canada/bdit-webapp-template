@@ -1,0 +1,7 @@
+git
+nginx
+node@10
+openssh
+postgresql@9.6
+python@3.7.2
+shellcheck
